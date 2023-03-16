@@ -2,7 +2,7 @@ package multiprogressbar
 
 import (
 	"fmt"
-	"github.com/schollz/progressbar/v3"
+	"github.com/doggyhaha/progressbar/v3"
 	"io"
 	"os"
 	"sync"
