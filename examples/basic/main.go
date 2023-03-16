@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/IceflowRE/go-multiprogressbar"
-	"github.com/schollz/progressbar/v3"
+	"github.com/doggyhaha/go-multiprogressbar"
+	"github.com/doggyhaha/progressbar/v3"
 	"time"
 )
 
